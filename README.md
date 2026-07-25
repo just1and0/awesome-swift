@@ -1546,6 +1546,7 @@ In parternship with:
 * [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator using SnapKit DSL.
 * [MFCard](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
 * [TPInAppReceipt](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
+* [Sanwo](https://github.com/Sanwohq/ios) - Universal payment SDK for iOS. One interface for Paystack, Flutterwave, Razorpay, Monnify, Interswitch, and custom providers. Distributed via SPM.
 
 #### Permissions
 [back to top](#readme) 
